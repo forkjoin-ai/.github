@@ -40,10 +40,11 @@ Production-ready ONNX models for in-browser inference with [transformers.js](htt
 | [Aeon Forge](https://github.com/affectively-ai/aeon-forge) | Shared deployment and routing primitives for deploy-planning surfaces and the Forge CLI/CD system. |
 | [Aeon IDE](https://github.com/affectively-ai/aeon-ide) | IDE integrations and developer experience tooling for Aeon. |
 | [Aeon Icons](https://github.com/affectively-ai/aeon-icons) | Icon library for Aeon web and native applications. |
-| [Aeon Flags](https://github.com/affectively-ai/aeon-flags) | UCAN-powered feature flags with optional Edge Side Inference cache and tier gating. Lightweight alternative to LaunchDarkly. |
+| [Goodchild](https://github.com/affectively-ai/aeon-flags) | UCAN-enforced feature gating daemon at the edge. Replaces centralized feature flag SaaS (LaunchDarkly, CloudBees) with deterministic, cryptographic entitlements. |
 | [Aeon IAM](https://github.com/affectively-ai/aeon-iam) | Device-rooted UCAN identity and access management orchestration. |
 | [Aeon Invite](https://github.com/affectively-ai/aeon-invite) | Beta shield, invite codes, waitlist management, and funnel analytics for controlled rollouts. |
 | [Aeon Preferences](https://github.com/affectively-ai/aeon-preferences) | Federated user preferences via Dash DB. |
+| [Aegis](https://github.com/affectively-ai/aeon-auth) | Zero-dependency decentralized identity and access control built on Web Crypto API. UCAN capabilities, DID resolution, ECDSA signatures, and XPath-like node selection for surgical data-tree authorization. |
 
 ## Local-First Data and Edge
 
@@ -51,10 +52,10 @@ Production-ready ONNX models for in-browser inference with [transformers.js](htt
 |---------|-------------|
 | [Dash](https://github.com/affectively-ai/dash) | Multi-layer edge storage and CRDT sync engine supporting Yjs, Automerge, WebSocket, WebTransport, and WebRTC. |
 | [Dash CLI](https://github.com/affectively-ai/dash-cli) | The sovereign, local-first database for your command line. |
+| [Neural](https://github.com/affectively-ai/neural) | Distributed monorepo for neural/AI infrastructure. |
 | [Edgework CLI](https://github.com/affectively-ai/edgework-cli) | CLI for edgework.ai — accessible AI at the edge. |
 | [Edgework SDK](https://github.com/affectively-ai/edgework-sdk) | SDK for building edgework.ai integrations. |
 | [Zedge](https://github.com/affectively-ai/zedge) | Companion sidecar with inference bridge and compute pool node functionality. |
-| [Neural](https://github.com/affectively-ai/neural) | Distributed monorepo for neural/AI infrastructure. |
 
 ## Orchestration and Protocols
 
@@ -66,11 +67,6 @@ Production-ready ONNX models for in-browser inference with [transformers.js](htt
 | [Slash Commands](https://github.com/affectively-ai/slash-commands) | Slash command framework for conversational interfaces. |
 
 ## Security and Identity
-
-| Project | Description |
-|---------|-------------|
-| [Auth](https://github.com/affectively-ai/auth) | UCAN-based authentication and ECDSA cryptographic utilities. |
-| [Aegis](https://github.com/affectively-ai/aegis) | Security and policy enforcement layer. |
 
 ## Data and Taxonomy
 
