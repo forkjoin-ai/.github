@@ -38,7 +38,7 @@ Production-ready ONNX models for in-browser inference with [transformers.js](htt
 |---------|-----|-------------|
 | [Aeon](https://github.com/affectively-ai/aeon) | `@affectively/aeon` | Distributed synchronization, schema versioning, and conflict resolution for real-time collaborative applications. |
 | [Aeon Container](https://github.com/affectively-ai/aeon-container) | `@affectively/aeon-container` | Browser sandbox, persistent filesystem, streamed linting, and agent collaboration runtime for code execution at the edge. |
-| [Aeon Flags](https://github.com/affectively-ai/aeon-flags) | `@affectively/aeon-flags` | UCAN-enforced feature gating at the edge. Deterministic, cryptographic entitlements replacing centralized feature flag SaaS. |
+| [Goodchild (Aeon Flags)](https://github.com/affectively-ai/aeon-flags) | `@affectively/aeon-flags` | UCAN-enforced feature gating at the edge. Deterministic, cryptographic entitlements replacing centralized feature flag SaaS. |
 | [Aeon Flux](https://github.com/affectively-ai/aeon-flux) | `@affectively/aeon-flux` | Collaborative page surface with CRDT-based flux state, Edge Side Inference (ESI), and zero-CLS rendering. |
 | [Aeon Flux Capacitor](https://github.com/affectively-ai/aeon-flux-capacitor) | `@affectively/capacitor` | Embedding-first collaborative WYSIWYG editor where text is a derivative of the vector space. |
 | [Aeon Forge](https://github.com/affectively-ai/aeon-forge) | — | Deployment engine and CLI/CD system for Aeon applications. |
