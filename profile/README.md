@@ -57,7 +57,7 @@ Production-ready ONNX models for in-browser inference with [transformers.js](htt
 
 | Package | npm | Description |
 |---------|-----|-------------|
-| [Dash](https://github.com/affectively-ai/dash) | `@affectively/dash` | Multi-layer edge storage and CRDT sync engine supporting Yjs, Automerge, WebSocket, WebTransport, and WebRTC. |
+| [Dash/Relay](https://github.com/affectively-ai/dash) | `@affectively/dash` | Multi-layer edge storage and CRDT sync engine supporting Yjs, Automerge, WebSocket, WebTransport, and WebRTC. |
 | [Dash CLI](https://github.com/affectively-ai/dash-cli) | `@affectively/dash-cli` | The sovereign, local-first database for your command line. |
 | [Edgework CLI](https://github.com/affectively-ai/edgework-cli) | `edgework` | CLI for edgework.ai — accessible AI at the edge. |
 | [Edgework SDK](https://github.com/affectively-ai/edgework-sdk) | `@affectively/edgework-sdk` | Client-side AI inference SDK with D1/Dash storage, WebGPU inference, and on-device RLHF. |
