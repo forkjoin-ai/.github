@@ -1,6 +1,6 @@
 # Affectively AI
 
-AFFECTIVELY is an emotion tracking and analysis platform that helps people hold onto their clarity. We build local-first, privacy-respecting tools that run AI inference entirely in-browser and at the edge — zero server cost, zero latency, your data stays yours.
+AFFECTIVELY is an emotion tracking and analysis platform that helps people hold onto their clarity. We build local-first, privacy-respecting tools that run AI inference entirely in-browser and at the edge  --  zero server cost, zero latency, your data stays yours.
 
 The **Aeon** ecosystem is our open-source infrastructure: distributed sync, collaborative surfaces, edge AI, WASM engines, and the tooling to tie it all together.
 
@@ -14,8 +14,8 @@ The **Aeon** ecosystem is our open-source infrastructure: distributed sync, coll
 
 | Model | Task | Base | Format | HuggingFace |
 |-------|------|------|--------|-------------|
-| Cog | DevOps intelligence — incident response, deployment decisions, system management | SmolLM2-360M-Instruct | GGUF (Q4_K_M, Q8_0) | [cog-360m-instruct-gguf](https://huggingface.co/affectively/cog-360m-instruct-gguf) |
-| Cyrano | Emotional intelligence — empathetic responses, emotion detection, coping strategies | SmolLM2-360M-Instruct | GGUF (Q4_K_M, Q8_0) | [cyrano-360m-instruct-gguf](https://huggingface.co/affectively/cyrano-360m-instruct-gguf) |
+| Cog | DevOps intelligence  --  incident response, deployment decisions, system management | SmolLM2-360M-Instruct | GGUF (Q4_K_M, Q8_0) | [cog-360m-instruct-gguf](https://huggingface.co/affectively/cog-360m-instruct-gguf) |
+| Cyrano | Emotional intelligence  --  empathetic responses, emotion detection, coping strategies | SmolLM2-360M-Instruct | GGUF (Q4_K_M, Q8_0) | [cyrano-360m-instruct-gguf](https://huggingface.co/affectively/cyrano-360m-instruct-gguf) |
 
 ## Browser AI Models (ONNX)
 
@@ -41,16 +41,16 @@ Production-ready ONNX models for in-browser inference with [transformers.js](htt
 | [Goodchild (Aeon Flags)](https://github.com/affectively-ai/aeon-flags) | `@affectively/aeon-flags` | UCAN-enforced feature gating at the edge. Deterministic, cryptographic entitlements replacing centralized feature flag SaaS. |
 | [Aeon Flux](https://github.com/affectively-ai/aeon-flux) | `@affectively/aeon-flux` | Collaborative page surface with CRDT-based flux state, Edge Side Inference (ESI), and zero-CLS rendering. |
 | [Aeon Flux Capacitor](https://github.com/affectively-ai/aeon-flux-capacitor) | `@affectively/capacitor` | Embedding-first collaborative WYSIWYG editor where text is a derivative of the vector space. |
-| [Aeon Forge](https://github.com/affectively-ai/aeon-forge) | — | Deployment engine and CLI/CD system for Aeon applications. |
+| [Aeon Forge](https://github.com/affectively-ai/aeon-forge) |  --  | Deployment engine and CLI/CD system for Aeon applications. |
 | [Aeon Foundation](https://github.com/affectively-ai/aeon-foundation) | `@affectively/aeon-foundation` | The complete Aeon stack in one package: distributed sync, collaborative pages, state management, relay transport, edge AI, and decentralized auth. |
 | [Aeon IAM](https://github.com/affectively-ai/aeon-iam) | `@affectively/aeon-iam` | Device-rooted UCAN identity and access management with badge tokens, DID resolution, and bearer credential parsing. |
 | [Aeon Icons](https://github.com/affectively-ai/aeon-icons) | `@affectively/aeon-icons` | Icon library for Aeon web and native applications. |
-| [Aeon IDE](https://github.com/affectively-ai/aeon-ide) | `@affectively/aeon-ide` | IDE UI components and hooks for the Aeon Container environment — editor, file tree, console, toolbar, and collaboration panels. |
+| [Aeon IDE](https://github.com/affectively-ai/aeon-ide) | `@affectively/aeon-ide` | IDE UI components and hooks for the Aeon Container environment  --  editor, file tree, console, toolbar, and collaboration panels. |
 | [Aeon Invite](https://github.com/affectively-ai/aeon-invite) | `@affectively/aeon-invite` | Beta shield, invite codes, waitlist management, and funnel analytics for controlled rollouts. |
 | [Aeon Preferences](https://github.com/affectively-ai/aeon-preferences) | `@affectively/aeon-preferences` | Federated user preferences via Dash DB. |
 | [Aeon Shell](https://github.com/affectively-ai/aeon-shell) | `@affectively/aeon-shell` | Local-first operating surface with live shell canvas, graph runtime, route-aware surfaces, and native `aeon://` addressing. |
 | [Aeon Shell Core](https://github.com/affectively-ai/aeon-shell-core) | `@affectively/aeon-shell-core` | Canonical runtime surface for shell consumers with host/plugin orchestration and engine registry security boundaries. |
-| [Aeon TUI](https://github.com/affectively-ai/aeon-tui) | — | Ink-based terminal runtime with behavior parity to the Aeon shell, command palette flows, and integrated PTY panes. |
+| [Aeon TUI](https://github.com/affectively-ai/aeon-tui) |  --  | Ink-based terminal runtime with behavior parity to the Aeon shell, command palette flows, and integrated PTY panes. |
 | [Aegis (Aeon Auth)](https://github.com/affectively-ai/aeon-auth) | `@affectively/auth` | Zero-dependency decentralized identity and access control built on Web Crypto API. UCAN capabilities, DID resolution, and ECDSA signatures. |
 
 ## Local-First Data and Edge
@@ -59,17 +59,17 @@ Production-ready ONNX models for in-browser inference with [transformers.js](htt
 |---------|-----|-------------|
 | [Dash/Relay](https://github.com/affectively-ai/dash) | `@affectively/dash` | Multi-layer edge storage and CRDT sync engine supporting Yjs, Automerge, WebSocket, WebTransport, and WebRTC. |
 | [Dash CLI](https://github.com/affectively-ai/dash-cli) | `@affectively/dash-cli` | The sovereign, local-first database for your command line. |
-| [Edgework CLI](https://github.com/affectively-ai/edgework-cli) | `edgework` | CLI for edgework.ai — accessible AI at the edge. |
+| [Edgework CLI](https://github.com/affectively-ai/edgework-cli) | `edgework` | CLI for edgework.ai  --  accessible AI at the edge. |
 | [Edgework SDK](https://github.com/affectively-ai/edgework-sdk) | `@affectively/edgework-sdk` | Client-side AI inference SDK with D1/Dash storage, WebGPU inference, and on-device RLHF. |
-| [Neural](https://github.com/affectively-ai/neural) | — | Distributed monorepo for neural/AI infrastructure. |
-| [Zedge](https://github.com/affectively-ai/zedge) | — | Companion sidecar with inference bridge and compute pool node functionality. |
+| [Neural](https://github.com/affectively-ai/neural) |  --  | Distributed monorepo for neural/AI infrastructure. |
+| [Zedge](https://github.com/affectively-ai/zedge) |  --  | Companion sidecar with inference bridge and compute pool node functionality. |
 
 ## Orchestration and Protocols
 
 | Package | npm | Description |
 |---------|-----|-------------|
 | [MCP Framework](https://github.com/affectively-ai/mcp-framework) | `@affectively/mcp-framework` | Framework for building Model Context Protocol servers with authentication, tool registration, and analytics. |
-| [Slash Commands](https://github.com/affectively-ai/slash-commands) | — | Slash command framework for conversational interfaces. |
+| [Slash Commands](https://github.com/affectively-ai/slash-commands) |  --  | Slash command framework for conversational interfaces. |
 | [Workflows](https://github.com/affectively-ai/workflows) | `@affectively/orchestrator` | Production-grade workflow orchestration and composition engine for autonomous agents and CI/CD pipelines. |
 
 ## Data and Taxonomy
@@ -94,8 +94,8 @@ High-performance Rust modules compiled to WebAssembly for near-native speed in t
 | Module | npm | Description |
 |--------|-----|-------------|
 | [Confetti Physics](https://github.com/affectively-ai/confetti-physics) | `@affectively/confetti-physics` | Physics-based confetti celebrations with fluid dynamics, haptic feedback, and procedural audio. |
-| [Entrainment Audio](https://github.com/affectively-ai/entrainment-audio) | — | Audio entrainment and binaural beat generation. |
-| [Synthetic Watermark](https://github.com/affectively-ai/synthetic-watermark) | — | Watermarking for synthetic/AI-generated content. |
+| [Entrainment Audio](https://github.com/affectively-ai/entrainment-audio) |  --  | Audio entrainment and binaural beat generation. |
+| [Synthetic Watermark](https://github.com/affectively-ai/synthetic-watermark) |  --  | Watermarking for synthetic/AI-generated content. |
 | [wasm-analytics-engine](https://github.com/affectively-ai/wasm-analytics-engine) | `@affectively/wasm-analytics-engine` | Metrics computation, event processing, and funnel analytics. |
 | [wasm-audio-processor](https://github.com/affectively-ai/wasm-audio-processor) | `@affectively/wasm-audio-processor` | Audio mixing, volume adjustment, silence generation, and µ-law encoding. |
 | [wasm-cache-ops](https://github.com/affectively-ai/wasm-cache-ops) | `@affectively/wasm-cache-ops` | Batch caching, LZ4-style compression, eviction policies, and hashing. |

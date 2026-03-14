@@ -1,6 +1,6 @@
 # AFFECTIVELY Open Source Ecosystem
 
-AFFECTIVELY is an emotion tracking and analysis platform that helps people hold onto their clarity. We build local-first, privacy-respecting tools that run AI inference entirely in-browser and at the edge — zero server cost, zero latency, your data stays yours.
+AFFECTIVELY is an emotion tracking and analysis platform that helps people hold onto their clarity. We build local-first, privacy-respecting tools that run AI inference entirely in-browser and at the edge  --  zero server cost, zero latency, your data stays yours.
 
 The **Aeon** ecosystem is our open-source infrastructure: distributed sync, collaborative surfaces, edge AI, WASM engines, and the tooling to tie it all together.
 
@@ -14,8 +14,8 @@ The **Aeon** ecosystem is our open-source infrastructure: distributed sync, coll
 
 | Model | Task | Base | Format | HuggingFace |
 |-------|------|------|--------|-------------|
-| Cog | DevOps intelligence — incident response, deployment decisions, system management | SmolLM2-360M-Instruct | GGUF (Q4_K_M, Q8_0) | [cog-360m-instruct-gguf](https://huggingface.co/affectively/cog-360m-instruct-gguf) |
-| Cyrano | Emotional intelligence — empathetic responses, emotion detection, coping strategies | SmolLM2-360M-Instruct | GGUF (Q4_K_M, Q8_0) | [cyrano-360m-instruct-gguf](https://huggingface.co/affectively/cyrano-360m-instruct-gguf) |
+| Cog | DevOps intelligence  --  incident response, deployment decisions, system management | SmolLM2-360M-Instruct | GGUF (Q4_K_M, Q8_0) | [cog-360m-instruct-gguf](https://huggingface.co/affectively/cog-360m-instruct-gguf) |
+| Cyrano | Emotional intelligence  --  empathetic responses, emotion detection, coping strategies | SmolLM2-360M-Instruct | GGUF (Q4_K_M, Q8_0) | [cyrano-360m-instruct-gguf](https://huggingface.co/affectively/cyrano-360m-instruct-gguf) |
 
 ## Browser AI Models (ONNX)
 
@@ -59,7 +59,7 @@ Production-ready ONNX models for in-browser inference with [transformers.js](htt
 |---------|-------------|
 | [Dash](https://github.com/affectively-ai/dash) | Multi-layer edge storage and CRDT sync engine supporting Yjs, Automerge, WebSocket, WebTransport, and WebRTC. |
 | [Dash CLI](https://github.com/affectively-ai/dash-cli) | The sovereign, local-first database for your command line. |
-| [Edgework CLI](https://github.com/affectively-ai/edgework-cli) | CLI for edgework.ai — accessible AI at the edge. |
+| [Edgework CLI](https://github.com/affectively-ai/edgework-cli) | CLI for edgework.ai  --  accessible AI at the edge. |
 | [Edgework SDK](https://github.com/affectively-ai/edgework-sdk) | SDK for building edgework.ai integrations. |
 | [Neural](https://github.com/affectively-ai/neural) | Distributed monorepo for neural/AI infrastructure. |
 | [Zedge](https://github.com/affectively-ai/zedge) | Companion sidecar with inference bridge and compute pool node functionality. |
