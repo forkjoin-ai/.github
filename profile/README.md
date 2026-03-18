@@ -37,35 +37,35 @@ Production-ready ONNX models for in-browser inference with [transformers.js](htt
 
 | Package | npm | License | Description |
 |---------|-----|---------|-------------|
-| [Aeon](https://github.com/forkjoin-ai/aeon) | `@affectively/aeon` | MIT | Distributed synchronization, schema versioning, and conflict resolution for real-time collaborative applications. |
-| [Aeon 3D](https://github.com/forkjoin-ai/aeon-3d) | `@affectively/aeon-3d` | MIT | Three.js-based 3D rendering for Aeon topology visualization. |
+| [Aeon](https://github.com/forkjoin-ai/aeon) | `@a0n/aeon` | MIT | Distributed synchronization, schema versioning, and conflict resolution for real-time collaborative applications. |
+| [Aeon 3D](https://github.com/forkjoin-ai/aeon-3d) | `@a0n/aeon-3d` | MIT | Three.js-based 3D rendering for Aeon topology visualization. |
 | [Aeon Affectively](https://github.com/forkjoin-ai/aeon-affectively) | -- | MIT | Emotion tracking and analysis components for the Aeon ecosystem. |
-| [Aeon Bazaar](https://github.com/forkjoin-ai/aeon-bazaar) | `@affectively/aeon-bazaar` | MIT | Unbounded negotiation engine with void walker dynamics and no termination guarantee. |
+| [Aeon Bazaar](https://github.com/forkjoin-ai/aeon-bazaar) | `@a0n/aeon-bazaar` | MIT | Unbounded negotiation engine with void walker dynamics and no termination guarantee. |
 | [Aeon Communication](https://github.com/forkjoin-ai/aeon-communication) | -- | MIT | Messaging and communication primitives for Aeon applications. |
-| [Aeon Container](https://github.com/forkjoin-ai/aeon-container) | `@affectively/aeon-container` | MIT | Browser sandbox, persistent filesystem, streamed linting, and agent collaboration runtime for code execution at the edge. |
-| [Aeon Flow](https://github.com/forkjoin-ai/aeon-flow) | `@affectively/aeon-flow` | MIT | Reactive dataflow graph engine for Aeon topologies. |
-| [Aeon Flux](https://github.com/forkjoin-ai/aeon-flux) | `@affectively/aeon-flux` | MIT | Collaborative page surface with CRDT-based flux state, Edge Side Inference (ESI), and zero-CLS rendering. |
+| [Aeon Container](https://github.com/forkjoin-ai/aeon-container) | `@a0n/aeon-container` | MIT | Browser sandbox, persistent filesystem, streamed linting, and agent collaboration runtime for code execution at the edge. |
+| [Aeon Flow](https://github.com/forkjoin-ai/aeon-flow) | `@a0n/aeon-flow` | MIT | Reactive dataflow graph engine for Aeon topologies. |
+| [Aeon Flux](https://github.com/forkjoin-ai/aeon-flux) | `@a0n/aeon-flux` | MIT | Collaborative page surface with CRDT-based flux state, Edge Side Inference (ESI), and zero-CLS rendering. |
 | [Aeon Flux Capacitor](https://github.com/forkjoin-ai/aeon-flux-capacitor) | `@affectively/capacitor` | MIT | Embedding-first collaborative WYSIWYG editor where text is a derivative of the vector space. |
 | [Aeon Forge](https://github.com/forkjoin-ai/aeon-forge) | -- | MIT | Deployment engine and CLI/CD system for Aeon applications. |
-| [Aeon Foundation](https://github.com/forkjoin-ai/aeon-foundation) | `@affectively/aeon-foundation` | MIT | The complete Aeon stack in one package: distributed sync, collaborative pages, state management, relay transport, edge AI, and decentralized auth. |
+| [Aeon Foundation](https://github.com/forkjoin-ai/aeon-foundation) | `@a0n/aeon-foundation` | MIT | The complete Aeon stack in one package: distributed sync, collaborative pages, state management, relay transport, edge AI, and decentralized auth. |
 | [Aeon Games](https://github.com/forkjoin-ai/aeon-games) | -- | MIT | Game engine primitives and interactive experiences built on Aeon. |
-| [Aeon IAM](https://github.com/forkjoin-ai/aeon-iam) | `@affectively/aeon-iam` | MIT | Device-rooted UCAN identity and access management with badge tokens, DID resolution, and bearer credential parsing. |
-| [Aeon Icons](https://github.com/forkjoin-ai/aeon-icons) | `@affectively/aeon-icons` | MIT | Icon library for Aeon web and native applications. |
-| [Aeon IDE](https://github.com/forkjoin-ai/aeon-ide) | `@affectively/aeon-ide` | MIT | IDE UI components and hooks for the Aeon Container environment -- editor, file tree, console, toolbar, and collaboration panels. |
-| [Aeon Invite](https://github.com/forkjoin-ai/aeon-invite) | `@affectively/aeon-invite` | MIT | Beta shield, invite codes, waitlist management, and funnel analytics for controlled rollouts. |
-| [Aeon Logic](https://github.com/forkjoin-ai/aeon-logic) | `@affectively/aeon-logic` | MIT | Formal verification primitives -- theorem ledger, proof-carrying deployments, and static analysis for Aeon topologies. |
-| [Aeon Neutral](https://github.com/forkjoin-ai/aeon-neutral) | `@affectively/aeon-neutral` | MIT | Bounded dispute resolution with three-walker Skyrms mediation and convergence certificates. |
-| [Aeon Pipelines](https://github.com/forkjoin-ai/aeon-pipelines) | `@affectively/aeon-pipelines` | MIT | Laminar dataflow pipelines for deterministic, parallelized computation over Aeon topologies. |
+| [Aeon IAM](https://github.com/forkjoin-ai/aeon-iam) | `@a0n/aeon-iam` | MIT | Device-rooted UCAN identity and access management with badge tokens, DID resolution, and bearer credential parsing. |
+| [Aeon Icons](https://github.com/forkjoin-ai/aeon-icons) | `@a0n/aeon-icons` | MIT | Icon library for Aeon web and native applications. |
+| [Aeon IDE](https://github.com/forkjoin-ai/aeon-ide) | `@a0n/aeon-ide` | MIT | IDE UI components and hooks for the Aeon Container environment -- editor, file tree, console, toolbar, and collaboration panels. |
+| [Aeon Invite](https://github.com/forkjoin-ai/aeon-invite) | `@a0n/aeon-invite` | MIT | Beta shield, invite codes, waitlist management, and funnel analytics for controlled rollouts. |
+| [Aeon Logic](https://github.com/forkjoin-ai/aeon-logic) | `@a0n/aeon-logic` | MIT | Formal verification primitives -- theorem ledger, proof-carrying deployments, and static analysis for Aeon topologies. |
+| [Aeon Neutral](https://github.com/forkjoin-ai/aeon-neutral) | `@a0n/aeon-neutral` | MIT | Bounded dispute resolution with three-walker Skyrms mediation and convergence certificates. |
+| [Aeon Pipelines](https://github.com/forkjoin-ai/aeon-pipelines) | `@a0n/aeon-pipelines` | MIT | Laminar dataflow pipelines for deterministic, parallelized computation over Aeon topologies. |
 | [Aeon Pipelines Neo4j](https://github.com/forkjoin-ai/aeon-pipelines-neo4j) | -- | MIT | Neo4j graph database adapter for Aeon Pipelines. |
-| [Aeon Preferences](https://github.com/forkjoin-ai/aeon-preferences) | `@affectively/aeon-preferences` | MIT | Federated user preferences via Dash DB. |
-| [Aeon Shell](https://github.com/forkjoin-ai/aeon-shell) | `@affectively/aeon-shell` | MIT | Local-first operating surface with live shell canvas, graph runtime, route-aware surfaces, and native `aeon://` addressing. |
-| [Aeon Shell Core](https://github.com/forkjoin-ai/aeon-shell-core) | `@affectively/aeon-shell-core` | MIT | Canonical runtime surface for shell consumers with host/plugin orchestration and engine registry security boundaries. |
-| [Aeon Stack](https://github.com/forkjoin-ai/aeon-stack) | `@affectively/aeon-stack` | MIT | Zero-dependency performance layer with measured vertical stack windowing, velocity-adaptive overscan, DOM collapse, and speculative rendering. |
+| [Aeon Preferences](https://github.com/forkjoin-ai/aeon-preferences) | `@a0n/aeon-preferences` | MIT | Federated user preferences via Dash DB. |
+| [Aeon Shell](https://github.com/forkjoin-ai/aeon-shell) | `@a0n/aeon-shell` | MIT | Local-first operating surface with live shell canvas, graph runtime, route-aware surfaces, and native `aeon://` addressing. |
+| [Aeon Shell Core](https://github.com/forkjoin-ai/aeon-shell-core) | `@a0n/aeon-shell-core` | MIT | Canonical runtime surface for shell consumers with host/plugin orchestration and engine registry security boundaries. |
+| [Aeon Stack](https://github.com/forkjoin-ai/aeon-stack) | `@a0n/aeon-stack` | MIT | Zero-dependency performance layer with measured vertical stack windowing, velocity-adaptive overscan, DOM collapse, and speculative rendering. |
 | [Aeon TUI](https://github.com/forkjoin-ai/aeon-tui) | -- | MIT | Ink-based terminal runtime with behavior parity to the Aeon shell, command palette flows, and integrated PTY panes. |
-| [Aeon Viz](https://github.com/forkjoin-ai/aeon-viz) | `@affectively/aeon-viz` | MIT | Graph visualization and topology rendering for Aeon structures. |
+| [Aeon Viz](https://github.com/forkjoin-ai/aeon-viz) | `@a0n/aeon-viz` | MIT | Graph visualization and topology rendering for Aeon structures. |
 | [Aegis (Aeon Auth)](https://github.com/forkjoin-ai/aeon-auth) | `@affectively/auth` | MIT | Zero-dependency decentralized identity and access control built on Web Crypto API. UCAN capabilities, DID resolution, and ECDSA signatures. |
 | [Gnosis](https://github.com/forkjoin-ai/gnosis) | `@affectively/gnosis` | MIT | GGL topology compiler, recursive coarsening synthesis, and FlowFrame rendering engine. |
-| [Goodchild (Aeon Flags)](https://github.com/forkjoin-ai/aeon-flags) | `@affectively/aeon-flags` | MIT | UCAN-enforced feature gating at the edge. Deterministic, cryptographic entitlements replacing centralized feature flag SaaS. |
+| [Goodchild (Aeon Flags)](https://github.com/forkjoin-ai/aeon-flags) | `@a0n/aeon-flags` | MIT | UCAN-enforced feature gating at the edge. Deterministic, cryptographic entitlements replacing centralized feature flag SaaS. |
 | [X-Gnosis](https://github.com/forkjoin-ai/x-gnosis) | `@affectively/x-gnosis` | MIT | Extended Gnosis runtime with cross-topology linking and federated graph operations. |
 
 ## Local-First Data and Edge
@@ -101,7 +101,7 @@ Production-ready ONNX models for in-browser inference with [transformers.js](htt
 
 | Package | npm | License | Description |
 |---------|-----|---------|-------------|
-| [Aeon Test](https://github.com/forkjoin-ai/aeon-test) | `@affectively/aeon-test` | MIT | Cross-platform isolated test runner for Bun, Node, and Deno with mock pollution prevention. |
+| [Aeon Test](https://github.com/forkjoin-ai/aeon-test) | `@a0n/aeon-test` | MIT | Cross-platform isolated test runner for Bun, Node, and Deno with mock pollution prevention. |
 | [DevOps Scripts](https://github.com/forkjoin-ai/devops-scripts) | `@affectively/devops-scripts` | MIT | Monorepo automation for changed-file testing, type-checking, and accessibility audits. |
 | [Stripper](https://github.com/forkjoin-ai/stripper) | -- | MIT | Source code comment and whitespace stripping utility. |
 | [Trace Lint](https://github.com/forkjoin-ai/trace-lint) | `@affectively/trace-lint` | MIT | Extensible linting framework for Chrome/DevTools trace files with loop detection rules. |

@@ -146,7 +146,7 @@ All npm packages are available under the `@affectively` scope.
 ```bash
 npm install @affectively/behavioral-taxonomy
 npm install @affectively/mcp-framework
-npm install @affectively/aeon-flux
+npm install @a0n/aeon-flux
 ```
 
 ## Contributing
