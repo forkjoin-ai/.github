@@ -64,7 +64,7 @@ Production-ready ONNX models for in-browser inference with [transformers.js](htt
 | [Aeon TUI](https://github.com/forkjoin-ai/aeon-tui) | -- | MIT | Ink-based terminal runtime with behavior parity to the Aeon shell, command palette flows, and integrated PTY panes. |
 | [Aeon Viz](https://github.com/forkjoin-ai/aeon-viz) | `@a0n/aeon-viz` | MIT | Graph visualization and topology rendering for Aeon structures. |
 | [Aegis (Aeon Auth)](https://github.com/forkjoin-ai/aeon-auth) | `@affectively/auth` | MIT | Zero-dependency decentralized identity and access control built on Web Crypto API. UCAN capabilities, DID resolution, and ECDSA signatures. |
-| [Gnosis](https://github.com/forkjoin-ai/gnosis) | `@affectively/gnosis` | MIT | GGL topology compiler, recursive coarsening synthesis, and FlowFrame rendering engine. |
+| [Gnosis](https://github.com/forkjoin-ai/gnosis) | `@a0n/gnosis` | MIT | GGL topology compiler, recursive coarsening synthesis, and FlowFrame rendering engine. |
 | [Goodchild (Aeon Flags)](https://github.com/forkjoin-ai/aeon-flags) | `@a0n/aeon-flags` | MIT | UCAN-enforced feature gating at the edge. Deterministic, cryptographic entitlements replacing centralized feature flag SaaS. |
 | [X-Gnosis](https://github.com/forkjoin-ai/x-gnosis) | `@affectively/x-gnosis` | MIT | Extended Gnosis runtime with cross-topology linking and federated graph operations. |
 
