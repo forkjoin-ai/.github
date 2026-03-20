@@ -85,7 +85,7 @@ Production-ready ONNX models for in-browser inference with [transformers.js](htt
 
 | Project | Description |
 |---------|-------------|
-| [Bun Isolated Runner](https://github.com/affectively-ai/bun-isolated-runner) | Run Bun tests in isolated subprocesses to prevent mock pollution and global state leakage. |
+| [Aeon Test](https://github.com/affectively-ai/aeon-test) | Run Bun tests in isolated subprocesses to prevent mock pollution and global state leakage. |
 | [DevOps Scripts](https://github.com/affectively-ai/devops-scripts) | Monorepo automation for changed-file testing, type-checking, and accessibility audits. |
 | [Trace Lint](https://github.com/affectively-ai/trace-lint) | Extensible linting framework for Chrome/DevTools trace files with loop detection rules. |
 
